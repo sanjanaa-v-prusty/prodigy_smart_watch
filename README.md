@@ -1,1 +1,1 @@
-# prodigy_smart_watch
+# prodigy_smart_watch (PRODIGY_WD_02)
